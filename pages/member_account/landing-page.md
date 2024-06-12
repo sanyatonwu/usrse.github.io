@@ -4,7 +4,6 @@ layout: page
 title: Member Login
 menubar: login
 permalink: /member-login/
-subtitle: Member Database
-menubar: member-database
+set_last_modified: true
 ---
 
