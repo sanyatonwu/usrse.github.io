@@ -1,6 +1,6 @@
 ---
 title: Directory
-permalink: /member-directory/
+permalink: /member-directory-login/
 format: html
 ---
 
